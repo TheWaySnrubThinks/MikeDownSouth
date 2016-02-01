@@ -20,8 +20,6 @@ Before I came back, I was looking forward to how ordered and organized everythin
 
 [![Lionel Hutz Attorney at Law Business Card (The Simpsons)]({{ site.baseurl }}/images/2011/10/lionel_hutz_thumb.jpg)]({{ site.baseurl }}/images/2011/10/lionel_hutz.jpg)
 
-**Lionel Hutz Attorney at Law Business Card (The Simpsons)**
-
 In the US, things are definitely a lot more ordered and there is more accountability, but I realized that when I was in South America, I was remembering a romanticized version of the US where everything is super efficient and organized. In reality, there's a lot in the US that's backwards and messy. I was immediately confronted with this when I landed in Ft. Lauderdale and had to stand in different lines for 2 hours straight just to get through passport control, customs, and security. Finding an apartment in Manhattan was such a backwards, convoluted process that I know if I had gone through it while still in South America, I'd have thought to myself, “This would *never* happen in America!”
 
 Even so, I have a newfound appreciation for the fact that there's a lot that you *can* rely on in the US. Like how official cabs are easy to distinguish from unofficial cabs and your chances of getting robbed by your cabbie in Manhattan are infinitesimal. Or how it's pretty rare for a cop to shake you down for a bribe when you haven't done anything wrong.
@@ -52,7 +50,7 @@ The biggest thing I've taken away from my trip is that **financial independence 
 
 Obviously it's not easy to make this happen because you do sort of *need* a job so that you can eat and pay for things. When traveling, you're a lot more likely to meet people who have figured out some sort of sustainable means of financial independence, so the possibility of living without a job seems more realistic. Some people have it arranged so that they have to work hard for a while then they can relax for a while. Other people have figured out ways of making money that are mostly passive and only require a few hours of work per week to maintain. This seems to be the way to go and after traveling I'm much more motivated to build up sources of passive income so that I can eventually live off of that.
 
-![Image: Smiling businessman holding money bags]({{ site.baseurl }}/images/2011/10/smiling-businessman-holding-money-bags.jpg)]
+![Image: Smiling businessman holding money bags]({{ site.baseurl }}/images/2011/10/smiling-businessman-holding-money-bags.jpg)
 
 Note to potential employers: if you've found this blog, I'm just kidding. I'll be your wage slave forever. I love working!
 
